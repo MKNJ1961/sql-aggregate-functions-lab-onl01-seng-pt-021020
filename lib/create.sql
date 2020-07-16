@@ -5,4 +5,3 @@ CREATE TABLE students (
   GPA INTEGER,
   tadries INTEGER
 );
-
