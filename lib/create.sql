@@ -3,5 +3,5 @@ CREATE TABLE students (
   name TEXT,
   grade INTEGER,
   GPA INTEGER,
-  tadries INTEGER
+  tardies INTEGER
 );
